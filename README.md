@@ -1,4 +1,12 @@
 ### Hi there 👋
+QA with tech stack:
+
+Cypress	| Postman |	TDD/UI/BDD Testing |	Charles Proxy
+GIT, SVN | Linux |	Enterprise Architect |	Appium
+Firebase |	Chrome dev tools |	Mobile testing |	Web testing
+Firmware testing |	Test planning |	Android debug bridge |	Agile/Scrum
+
+Constantly learning new skills, currently focused on penetration testing and hardware engineering. 
 
 <!--
 **arekdampc/arekdampc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
