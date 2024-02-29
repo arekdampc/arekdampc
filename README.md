@@ -1,5 +1,5 @@
 ### Hi there 👋
-QA with tech stack:
+QA Engineer with tech stack:
 
 Cypress	| Postman |	TDD/UI/BDD Testing |	Charles Proxy
 GIT, SVN | Linux |	Enterprise Architect |	Appium
