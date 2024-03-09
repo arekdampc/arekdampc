@@ -1,10 +1,10 @@
 ### Hi there 👋
 QA Engineer with tech stack:
 
-Cypress	| Postman |	TDD/UI/BDD Testing |	Charles Proxy
-GIT, SVN | Linux |	Enterprise Architect |	Appium
-Firebase |	Chrome dev tools |	Mobile testing |	Web testing
-Firmware testing |	Test planning |	Android debug bridge |	Agile/Scrum
+Cypress	| Postman |	TDD/UI/BDD Testing |	Charles Proxy |
+GIT, SVN | Linux |	Enterprise Architect |	Appium |
+Firebase |	Chrome dev tools |	Mobile testing |	Web testing |
+Firmware testing |	Test planning |	Android debug bridge |	Agile/Scrum |
 
 Constantly learning new skills, currently focused on penetration testing and hardware engineering. 
 
